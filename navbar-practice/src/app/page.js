@@ -3,9 +3,9 @@ import { Hero, Navbar, Footer } from "./Index";
 export default function Home() {
   return (
     <div>
-      {/* <Navbar />
+      <Navbar />
       <Hero />
-      <Footer /> */}
+      <Footer />
     </div>
   );
 }

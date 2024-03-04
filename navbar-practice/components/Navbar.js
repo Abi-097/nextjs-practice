@@ -26,7 +26,7 @@ const Navbar = () => {
             width="200"
             height="200"
             className="cursor-pointer"
-            priority
+            priority 
           />
         </Link>
         <div className="hidden md:flex">
